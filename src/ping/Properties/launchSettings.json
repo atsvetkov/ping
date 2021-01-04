@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ping": {
+      "commandName": "Project",
+      "commandLineArgs": "192.168.178.1"
+    }
+  }
+}
